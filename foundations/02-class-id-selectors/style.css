@@ -1,0 +1,18 @@
+.index-p {
+  background-color: rgb(255, 127, 127);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.index-p2 {
+  background-color: rgb(255, 127, 127);
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#even2 {
+  color: #0000ff;
+  font-size: 36px;
+}
+#even4 {
+  font-size: 24px;
+  background-color: #90ee90;
+  font-weight: bold;
+}
